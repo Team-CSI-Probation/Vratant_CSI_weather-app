@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Vratant_CSI_weather-app/static/css/main.c724a478.css",
+    "main.js": "/Vratant_CSI_weather-app/static/js/main.793a6e98.js",
+    "static/media/Sunnyday.jpeg": "/Vratant_CSI_weather-app/static/media/Sunnyday.21241496754b3c6200c7.jpeg",
+    "static/media/stormy.jpg": "/Vratant_CSI_weather-app/static/media/stormy.4023422f5d65e2bf2f52.jpg",
+    "static/media/default.jpg": "/Vratant_CSI_weather-app/static/media/default.374704134d04595b5139.jpg",
+    "static/media/fog.webp": "/Vratant_CSI_weather-app/static/media/fog.120cc1dcfab1c2c5d2ee.webp",
+    "static/media/cloudy.jpg": "/Vratant_CSI_weather-app/static/media/cloudy.18974b0c0f1ae5f21d5a.jpg",
+    "static/media/smoke.jpg": "/Vratant_CSI_weather-app/static/media/smoke.5e84f2b4308b9daf24ea.jpg",
+    "static/media/clear.jpg": "/Vratant_CSI_weather-app/static/media/clear.37292155f42ee7422987.jpg",
+    "index.html": "/Vratant_CSI_weather-app/index.html",
+    "main.c724a478.css.map": "/Vratant_CSI_weather-app/static/css/main.c724a478.css.map",
+    "main.793a6e98.js.map": "/Vratant_CSI_weather-app/static/js/main.793a6e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c724a478.css",
+    "static/js/main.793a6e98.js"
+  ]
+}
